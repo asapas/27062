@@ -1,0 +1,223 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "image": "https://i.imgur.com/nX7lRB0.png",
+      "showMenu": true,
+      "showLogo": true,
+      "showSearch": true,
+      "showCart": false,
+      "showNotification": false,
+      "showBadgeCart": false,
+      "opacity": 1,
+      "iconOpacity": 0,
+      "iconRadius": 6,
+      "iconSpreadRadius": 0,
+      "iconSize": 24,
+      "logoSize": 49
+    },
+    {
+      "rotate": [],
+      "usePrimaryColor": true,
+      "paddingRight": 15,
+      "title": "What can we help you find?",
+      "marginLeft": 18,
+      "marginRight": 18,
+      "layout": "header_search",
+      "paddingBottom": 0,
+      "showSearch": true,
+      "borderInput": false,
+      "textOpacity": 0.8,
+      "fontSize": 15,
+      "marginBottom": 5,
+      "paddingTop": 0,
+      "isSafeArea": false,
+      "alignment": "centerLeft",
+      "radius": 30,
+      "paddingLeft": 5,
+      "fontWeight": 0,
+      "marginTop": 5,
+      "height": 45
+    },
+    {
+      "line": false,
+      "noBackground": false,
+      "type": "image",
+      "showShortDescription": true,
+      "marginX": 2,
+      "marginLeft": 10,
+      "marginY": 0,
+      "layout": "category",
+      "marginRight": 10,
+      "paddingX": 7,
+      "spacing": 12,
+      "size": 1,
+      "hideTitle": false,
+      "marginBottom": 10,
+      "itemSize": {
+        "width": 320,
+        "height": 157
+      },
+      "radius": 50,
+      "wrap": false,
+      "items": [
+        {
+          "image": "https://trello.com/1/cards/5f819c1647913f104387c46c/attachments/5f819c300f90ce28dbda45b3/download/travel10.jpg",
+          "showText": true,
+          "name": "Apartments",
+          "category": "19"
+        },
+        {
+          "image": "https://trello.com/1/cards/5f819c1647913f104387c46c/attachments/5f819c3121a31867bc4b6aee/download/travel13.jpg",
+          "showText": true,
+          "name": "Fitness",
+          "category": "19"
+        },
+        {
+          "image": "https://trello.com/1/cards/5f819c1647913f104387c46c/attachments/5f819c3284e33702c816b9d3/download/travel27.jpg",
+          "showText": true,
+          "name": "Events",
+          "category": "19"
+        },
+        {
+          "image": "https://trello.com/1/cards/5f819c1647913f104387c46c/attachments/5f819c33acfd0d2344dfa5cf/download/travel30.jpg",
+          "showText": true,
+          "name": "Eat & Drink",
+          "category": "19"
+        },
+        {
+          "image": "https://trello.com/1/cards/5f819c1647913f104387c46c/attachments/5f819c349d05e76783966c47/download/travel39.jpg",
+          "showText": true,
+          "name": "Services",
+          "category": "19"
+        },
+        {
+          "image": "https://trello.com/1/cards/5f819c1647913f104387c46c/attachments/5f819c37e346e88db94e202c/previews/5f819c37e346e88db94e2033/download/travel53.jpg",
+          "showText": true,
+          "name": "Other",
+          "category": "19"
+        }
+      ],
+      "marginTop": 10,
+      "paddingY": 0
+    },
+    {
+      "layout": "twoColumn",
+      "name": "Coming Events"
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "autoPlay": true,
+      "radius": 10,
+      "items": [
+        {
+          "image": "https://trello.com/1/cards/5dd3a1ccf77d834e86dfd29a/attachments/5dd3a20d59e9221994fd0e7c/previews/5dd3a20e59e9221994fd0e89/download/travel2.jpg",
+          "padding": 20,
+          "category": 29
+        },
+        {
+          "image": "https://trello.com/1/cards/5dd3a1ccf77d834e86dfd29a/attachments/5dd3a211b67f331982369be6/previews/5dd3a212b67f331982369c5a/download/travel3.jpg",
+          "padding": 20,
+          "category": 37
+        },
+        {
+          "image": "https://trello.com/1/cards/5dd3a1ccf77d834e86dfd29a/attachments/5dd3a3ba0fd3a383965fccb5/previews/5dd3a3bb0fd3a383965fcdaa/download/travel5.jpg",
+          "padding": 20,
+          "category": 34
+        }
+      ],
+      "height": 0.5
+    }
+  ],
+  "Setting": {
+    "TabBarConfig": null,
+    "FontFamily": "Roboto",
+    "MainColor": null,
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "fontFamily": "CupertinoIcons",
+      "pos": 100,
+      "icon": "home",
+      "key": "atRIHHUJBl"
+    },
+    {
+      "layout": "category",
+      "fontFamily": "CupertinoIcons",
+      "pos": 200,
+      "icon": "rectangle_grid_1x2",
+      "categoryLayout": "card",
+      "key": "TzxMbhrXjT"
+    },
+    {
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "size": 24,
+      "pos": 300,
+      "icon": "search",
+      "key": "LdoeTkEiiE"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 400,
+      "icon": "person",
+      "key": "TtILvdRoVq"
+    }
+  ],
+  "Drawer": {
+    "logo": "https://i.imgur.com/UPlUAMS.png",
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "type": "categories",
+        "show": true
+      },
+      {
+        "type": "profile",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ],
+    "subDrawerItem": {},
+    "logoConfig": {
+      "width": 80,
+      "height": 80,
+      "marginLeft": 5,
+      "marginRight": 0,
+      "marginTop": 60,
+      "marginBottom": 10,
+      "boxFit": "fill"
+    },
+    "filter": 0,
+    "safeArea": false,
+    "enable": true,
+    "key": "pumcUkjjED"
+  },
+  "AppBar": {},
+  "VerticalLayout": {
+    "layout": "menu",
+    "isVertical": true,
+    "name": "Explore more"
+  }
+}
