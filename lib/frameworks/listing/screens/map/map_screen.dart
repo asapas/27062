@@ -57,7 +57,7 @@ class _MapScreenState extends State<MapScreen>
             return ListingCardView(
               item: products[index],
               width: width * 0.8,
-              height: 200.0,
+              height: 150.0,
               config: ProductConfig.empty(),
             );
           }),

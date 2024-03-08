@@ -1,6 +1,6 @@
 // ignore_for_file: prefer_single_quotes, lines_longer_than_80_chars final
 Map<String, dynamic> environment = {
-  "appConfig": "lib/config/config_en.json",
+  "appConfig": "https://raw.githubusercontent.com/asapas/matyhub/main/config_en.json",
   "serverConfig": {
     "url": "https://listing.matyhub.com",
     "type": "listeo",
